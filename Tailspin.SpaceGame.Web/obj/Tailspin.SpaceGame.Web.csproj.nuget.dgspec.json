@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/chitrangdakapoor/Documents/git_code/mslearn-tailspin-spacegame-web/Tailspin.SpaceGame.Web/Tailspin.SpaceGame.Web.csproj": {}
+  },
+  "projects": {
+    "/Users/chitrangdakapoor/Documents/git_code/mslearn-tailspin-spacegame-web/Tailspin.SpaceGame.Web/Tailspin.SpaceGame.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chitrangdakapoor/Documents/git_code/mslearn-tailspin-spacegame-web/Tailspin.SpaceGame.Web/Tailspin.SpaceGame.Web.csproj",
+        "projectName": "Tailspin.SpaceGame.Web",
+        "projectPath": "/Users/chitrangdakapoor/Documents/git_code/mslearn-tailspin-spacegame-web/Tailspin.SpaceGame.Web/Tailspin.SpaceGame.Web.csproj",
+        "packagesPath": "/Users/chitrangdakapoor/.nuget/packages/",
+        "outputPath": "/Users/chitrangdakapoor/Documents/git_code/mslearn-tailspin-spacegame-web/Tailspin.SpaceGame.Web/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/chitrangdakapoor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
